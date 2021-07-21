@@ -1,0 +1,16 @@
+{
+  "id": "01FB4SW2PE5WWH4M6CBJS0DN6Z",
+  "created_at": "2021-07-21T15:10:15+00:00",
+  "updated_at": "2021-07-21T15:10:15+00:00",
+  "name": "Sleek Rubber Pants",
+  "images": { "thumb": null, "full": "http://placeimg.com/640/480/cats" },
+  "status": "unpaid",
+  "customer_notes": "",
+  "admin_notes": "",
+  "variant": null,
+  "dimensions": [],
+  "quantity": { "amount": 2, "unit": "each" },
+  "unit_price": { "amount": 975, "currency": "USD" },
+  "subtotal": { "amount": 1950, "currency": "USD" },
+  "discounts": []
+}
