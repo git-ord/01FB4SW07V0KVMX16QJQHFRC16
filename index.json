@@ -4,7 +4,9 @@
     "id": null,
     "url": null
   },
-  "customer": null,
+  "customer": {
+    "email": "thisistest@foo.bar.baz"
+  },
   "id": "01FB4SW07V0KVMX16QJQHFRC16",
   "url": "https://github.com/git-ord/01FB4SW07V0KVMX16QJQHFRC16.git",
   "status": "open",
